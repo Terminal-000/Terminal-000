@@ -1,1 +1,1 @@
-My name is terminal. I am a computer scientist looking forward to revolutionize the old ways.
+My name is terminal. I work on my game asset store called voidroot with my wife.

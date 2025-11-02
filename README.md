@@ -1,4 +1,4 @@
-# Moe Imani  
+# Moe Imani
 **Software Engineer | .NET Systems | Game Development Tools**  
 Founder of **Voidroot Entertainment Technologies**
 
@@ -32,3 +32,6 @@ I build both **.NET backends** for businesses and **reusable UI frameworks** for
 
 ## Philosophy
 Where efficiency and modularity meet novelty, I create systems that are both practical and visually/audio engaging, bridging robust engineering with creative design.
+
+
+<img src="https://github.com/user-attachments/assets/5d75649c-2b97-4a0b-870b-7921360b2f56" alt="Alt text" style="width:10%; height:auto;">

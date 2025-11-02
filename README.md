@@ -18,6 +18,7 @@ I build both **.NET backends** for businesses and **reusable UI frameworks** for
 - Codebase refactoring and architectural improvements  
 - Lightweight tools for workflow automation
 - Fast data acquisition with Redis integration
+- Identity server development
 
 ### > Game Development Tools (Voidroot)
 - UI & HUD frameworks for Godot and Unity

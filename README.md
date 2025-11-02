@@ -1,4 +1,4 @@
-# Voidroot
+# Voidroot Entertainment Technologies
 
 **Private Game Asset Merchant**
 

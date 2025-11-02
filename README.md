@@ -12,14 +12,14 @@ I build both **.NET backends** for businesses and **reusable UI frameworks** for
 
 ## Technical Focus
 
-### 🧠 Software Engineering
+### > Software Engineering
 - .NET Core & ASP.NET backend systems  
 - API design and database structure optimization  
 - Codebase refactoring and architectural improvements  
 - Lightweight tools for workflow automation
 - Fast data acquisition with Redis integration
 
-### 🎮 Game Development Tools (Voidroot)
+### > Game Development Tools (Voidroot)
 - UI & HUD frameworks for Godot and Unity
 - Custom animation system
 - Reusable Animation presets for UI and HUD using shaders

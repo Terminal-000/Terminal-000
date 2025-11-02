@@ -1,30 +1,34 @@
-# Voidroot Entertainment Technologies
-
-**Private Game Asset Merchant**
-
----
-
-### About
-I create **reusable UI and HUD systems** for **Godot** and **Unity**, designed to help developers save time and focus on gameplay instead of interface work.  
-All assets are modular, production-ready, and optimized for integration into both indie and professional projects.
+# Moe Imani  
+**Software Engineer | .NET Systems | Game Development Tools**  
+Founder of **Voidroot Entertainment Technologies**
 
 ---
 
-### Store
-All my assets are available exclusively through my **private storefront — Voidroot**.  
-Access is granted on request or invitation.
-
-**Payment methods:**
-- Cryptocurrency only (BTC, ETH, USDT, or other supported coins)
+## About
+I’m an experienced software engineer bringing **modular design principles** and **efficient system architecture** from enterprise software into the game development space.
+I build both **.NET backends** for businesses and **reusable UI frameworks** for Godot and Unity developers which are sound reactive using procedural synthesis — focused on performance, scalability, and last but not least Creativity!
 
 ---
 
-### Focus
-- UI frameworks and HUD systems for Unity and Godot  
-- Custom styling and adaptive layouts  
-- Minimal runtime overhead and flexible API design  
-- Clean, well-documented code ready for production use
+## Technical Focus
+
+### 🧠 Software Engineering
+- .NET Core & ASP.NET backend systems  
+- API design and database structure optimization  
+- Codebase refactoring and architectural improvements  
+- Lightweight tools for workflow automation
+- Fast data acquisition with Redis integration
+
+### 🎮 Game Development Tools (Voidroot)
+- UI & HUD frameworks for Godot and Unity
+- Custom animation system
+- Reusable Animation presets for UI and HUD using shaders
+- Procedural sound design reactive to animations using realtime synthesis tools 
+- Modular and production-ready extensions  
+- Adaptive layouts and clean visual architecture  
+- Minimal runtime overhead with well-documented APIs  
 
 ---
 
-**Voidroot** — reusable systems for developers who value independence and control.
+## Philosophy
+Where efficiency and modularity meet novelty, I create systems that are both practical and visually/audio engaging, bridging robust engineering with creative design.

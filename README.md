@@ -31,6 +31,11 @@ I build both **.NET backends** for businesses and **reusable UI frameworks** for
 
 ---
 
+## Disclaimer
+To share examples of my work, I have put together some public projects using the format [language/framework]/[Name of the Example] for their repository names. Most of my professional work is under NDA, so these examples are provided for illustrative purposes only.
+
+--
+
 ## Philosophy
 Where efficiency and modularity meet novelty, I create systems that are both practical and visually/audio engaging, bridging robust engineering with creative design.
 

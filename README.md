@@ -31,7 +31,7 @@ I build both **.NET backends** for businesses and **reusable UI frameworks** for
 
 ---
 
-## Disclaimer
+## ⚠️ Disclaimer
 To share examples of my work, I have put together some public projects using the format [language/framework]/[Name of the Example] for their repository names. Most of my professional work is under NDA, so these examples are provided for illustrative purposes only.
 
 --

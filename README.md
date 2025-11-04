@@ -6,7 +6,7 @@ Founder of **Voidroot Entertainment Technologies**
 
 ## About
 I’m an experienced software engineer bringing **modular design principles** and **efficient system architecture** from enterprise software into the game development space.
-I build both **.NET backends** for businesses and **reusable UI frameworks** for Godot and Unity developers which are sound reactive using procedural synthesis — focused on performance, scalability, and last but not least Creativity!
+I build both **.NET backends** for businesses and **Reusable Engine Components & Audio Technologies** for Godot and Unity developers — focused on performance, scalability, and last but not least Creativity!
 
 ---
 
